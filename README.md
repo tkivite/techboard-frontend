@@ -4,10 +4,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Steps to set-up
 
-> npm install -g @angular/cli
-> ng new techboard
-> cd techboard
-> ng serve
+> 1. npm install -g @angular/cli <br>
+> 2. ng new techboard <br>
+> 3. cd techboard <br>
+> 4. ng serve <br>
 
 ## Development server
 
